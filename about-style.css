@@ -1,0 +1,123 @@
+* {
+}
+
+body {
+  background-color: #85418a;
+  background-image: url("assest/background-images/waifu2.png");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+/* Navbar-style */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 2rem;
+  padding-left: 6rem;
+  margin-bottom: -2.1rem;
+  padding-top: 1.5rem;
+  text-indent: -10px;
+}
+
+.nav-active {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Poppins", sans-serif;
+  margin-left: 39rem;
+  text-indent: 25px;
+  margin-top: -2rem;
+}
+
+.home-span {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+  font-weight: 400;
+}
+
+.nav-link-active {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration-line: none;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+.nav-active a:hover {
+  color: #e391fe;
+  transition: 0.2s 0.1s;
+}
+
+.active-link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 5px;
+}
+
+.nav-span {
+  color: #dd77fe;
+}
+
+.nav-span:hover {
+  color: white;
+  transition: 0.1s 0.2s;
+}
+/* navbar-style */
+
+/* about-section */
+.about-head {
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: 0.2rem;
+  font-weight: 700;
+  font-size: 2rem;
+  color: white;
+  margin-left: 13rem;
+}
+.head {
+  margin-top: -20rem;
+  margin-left: 4rem;
+}
+
+.about-content {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  white-space: pre-wrap;
+  margin-top: -6rem;
+}
+.content {
+  margin-top: -3rem;
+  text-align: center;
+  margin-right: 45rem;
+}
+
+.img-svg {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  margin-right: 6rem;
+  margin-top: 15rem;
+}
+.img {
+  width: 30rem;
+}

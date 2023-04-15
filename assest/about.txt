@@ -1,0 +1,22 @@
+<div class="about-us">
+      <div class="container">
+        <div class="svg"></div>
+        <div class="head-about">ABOUT US</div>
+        <div class="about-text">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+            debitis, optio facere repudiandae illo accusamus provident! Pariatur
+            praesentium ducimus incidunt?
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error iure
+            hic, laboriosam odio commodi accusamus, omnis voluptas vitae eos
+            libero doloremque magnam, deleniti earum labore mollitia molestiae
+            quam dolores sunt?
+          </p>
+        </div>
+        <div class="svg-about">
+          <img class="svg-about-us" src="assest/undraw/1.svg" alt="svg" />
+        </div>
+      </div>
+    </div> 
